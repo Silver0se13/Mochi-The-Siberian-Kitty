@@ -24,6 +24,8 @@ nav{
 }
 
 button{
+    color: black;
+    background-color: white;
     border-radius: 30%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -35,7 +37,7 @@ button:hover{
 }
 
 img{
-    border-radius: 10%;
+    border-radius: 50%;
     width: 30%;
     height: auto;
     padding-left: 1rem;
