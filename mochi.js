@@ -11,7 +11,7 @@ home.addEventListener('click', function() {
     console.log("Coming Home was pressed.");
     cat.src = "images/Mochi_Sleep_Pink.jpg";
     heading_two.innerHTML = "Coming Home";
-    text.innerHTML = "Mochi was so small and super curious! She was also very shy and quiet, rarely meowing. The moment her carrier was opened, she took small cautious steps out and in into her new home. You could see her nose working, taking in all of the new scents. Mochi quickly got busy playing with all of her new toys. She ended up wearing herself out and took a relaxed and comfortable nap. This little kitty spent the whole day and night near her new human mama, and felt comfortable enough to cuddle up to her! <br> These first couple of days were exciting for the both of them."
+    text.innerHTML = "Mochi was so small and super curious! She was also very shy and quiet, rarely meowing. The moment her carrier was opened, she took small, cautious steps in and out of her new home. You could see her nose working, taking in all the new scents. Mochi quickly got busy playing with all her new toys. She ended up wearing herself out and took a relaxed, comfortable nap. This little kitty spent the whole day and night near her new human mama, feeling comfortable enough to cuddle up to her! These first couple of days were exciting for both of them."
     heading_three.innerHTML = ""
     list.innerHTML = ""
 })
@@ -20,7 +20,7 @@ weeks.addEventListener('click', function() {
     console.log("First Few Weeks was pressed.");
     cat.src = "images/Mochi_Outside.jpeg";
     heading_two.innerHTML = "The First Few Weeks";
-    text.innerHTML = "Mochi soon became comfortable and use to her new home, and she was quick to learn her new name! Mochi slowly started harness training so she could enjoy outdoor walks from time to time. This kitty was quick on getting use to a harness and leash that before she new it, she was out exploring the front and back yard! Her fur pattern had started coming in more, her paws and face starting to darken. <br> During this time, Mochi also visited the vet for her vaccines, and she surprisingly handled it very well! In fact, she was purring while they were giving her the shot. She was just too busy eating a treat."
+    text.innerHTML = "Mochi soon became comfortable and accustomed to her new home, and she was quick to learn her new name! Mochi slowly started harness training so she could enjoy outdoor walks from time to time. This kitty quickly got used to a harness and leash, and before she knew it, she was out exploring the front and back yard! Her fur pattern had started coming in more, with her paws and face beginning to darken. During this time, Mochi also visited the vet for her vaccines, and she surprisingly handled it very well! In fact, she was purring while they gave her the shot. She was just too busy eating a treat."
     heading_three.innerHTML = ""
     list.innerHTML = ""
 })
@@ -29,7 +29,7 @@ today.addEventListener('click', function() {
     console.log("Growing Today was pressed.");
     cat.src = "images/Mochi_Comfy.jpeg";
     heading_two.innerHTML = "Growing up Today";
-    text.innerHTML = "Today, Mochi is growing up happy and healthy. She's still a little kitten, but she's grown so much in size compared to the first day home. Her fur colour is a lot more darker now as well, especially her face. Some parts of Mochi's white fur now has a cream-ish hue. Her tail is really fluffy now too. <br> Mochi is very clever. She's learned little tricks and games like 'peek-a-boo', 'fetch', and 'sit'. This little kitty understands words like 'good night' and 'bye-bye', as well as coming when being called (most of the time). <br> Mochi has also become a lot more vocal, meowing more often. She's still quiet majority of the time, but she no longer hesitates when wanting attention. <br> This little kitty is growing beautifully."
+    text.innerHTML = "Today, Mochi is growing up happy and healthy. She's still a little kitten, but she's grown so much in size compared to the first day home. Her fur color is a lot darker now, especially on her face. Some parts of Mochi's white fur now have a creamish hue. Her tail is really fluffy now too. Mochi is very clever. She's learned little tricks and games like 'peek-a-boo', 'fetch', and 'sit'. This little kitty understands words like 'good night' and 'bye-bye', and usually comes when called. Mochi has also become a lot more vocal, meowing more often. She's still quiet most of the time, but she no longer hesitates when she wants attention. This little kitty is growing beautifully."
     heading_three.innerHTML = ""
     list.innerHTML = ""
 })
