@@ -9,7 +9,7 @@ about.addEventListener('click', function() {
 
 home.addEventListener('click', function() {
     console.log("Coming Home was pressed.");
-    cat.src = "images/Mochi_Sleep_Pink.jpg";
+    cat.src = "images/Mochi_Sleep_Pink.JPG";
     heading_two.innerHTML = "Coming Home";
     text.innerHTML = "Mochi was so small and super curious! She was also very shy and quiet, rarely meowing. The moment her carrier was opened, she took small, cautious steps in and out of her new home. You could see her nose working, taking in all the new scents. Mochi quickly got busy playing with all her new toys. She ended up wearing herself out and took a relaxed, comfortable nap. This little kitty spent the whole day and night near her new human mama, feeling comfortable enough to cuddle up to her! These first couple of days were exciting for both of them."
     heading_three.innerHTML = ""
